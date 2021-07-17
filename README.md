@@ -29,6 +29,6 @@ A simple clone of the CamScanner app that allows a user to scan documents and sa
 Here is a drive link to the screenshots of the developed app. https://drive.google.com/drive/folders/1KFg8adhblH_I3u8-4ZJ9JVEfCY1bSbao?usp=sharing
 
 ## Demo Video
-Here is a drive link to a demo video of the developed app. 
+Here is a drive link to a demo video of the developed app. https://drive.google.com/file/d/1LJ4deW7ukz-xmLh7NIVPa5Uo3Z827m3T/view?usp=sharing
 
 
