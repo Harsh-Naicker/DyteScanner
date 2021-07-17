@@ -25,5 +25,10 @@ A simple clone of the CamScanner app that allows a user to scan documents and sa
 - *Note*: The documents get stored in the internal storage of the Android device inside a directory named 'DyteScanner'. Also, once a document is scanned and saved, it is immediately available in the gallery application of the user's device.
 - All scanned documents are listed in a grid view on the home screen of the app. When a user clicks on any of the documents, it is opened in the user's gallery application.
 
+## Screenshots
+Here is a drive link to the screenshots of the developed app. https://drive.google.com/drive/folders/1KFg8adhblH_I3u8-4ZJ9JVEfCY1bSbao?usp=sharing
+
+## Demo Video
+Here is a drive link to a demo video of the developed app. 
 
 
