@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "5434070781",
+    "project_id": "dytescanner",
+    "storage_bucket": "dytescanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5434070781:android:f8bce9cdb1199aa6fe9094",
+        "android_client_info": {
+          "package_name": "com.dytescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5434070781-d5vb0siv45pib2k9nkeu75si737c53kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dytescanner",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "5434070781-smhinnpupltp2uatjpv3egscqtptckur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlHzGyuUS22EhDceTFp7R-fXEPsUxO9Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5434070781-smhinnpupltp2uatjpv3egscqtptckur.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5434070781-e8jl26fv4au7dv7btufmgiumh8frr21c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dytescanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
