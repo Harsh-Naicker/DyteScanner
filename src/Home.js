@@ -45,7 +45,7 @@ const Home = ({navigation}) => {
             <View style={styles.headerHalf}>
                 <Image source={require('../assets/Dyte-Logo.png')} style={styles.logo}/>
             </View>
-            <Text style={{color: 'white'}}>{files.length === 0? 'No scanned files': ''}</Text>
+            <Text style={{color: 'white', top:100, fontSize: 20}}>{files.length === 0? 'No scanned files': ''}</Text>
             <ScrollView contentContainerStyle={styles.gridContainer}>
                 {files.map((file) =>(
                 <TouchableOpacity key={file} style={styles.box} onPress={() => openGallery(file)}>
